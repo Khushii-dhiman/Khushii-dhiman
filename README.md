@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Khushi 👋
 
-<!--
-**Khushii-dhiman/Khushii-dhiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+💻 Python Developer  
+🌐 Networking Enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- C
+- C++
+- Python
+- Networking
+- Basic Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently Learning
+- Full Stack Development
+
+## 🔗 Connect with me
+- LinkedIn: www.linkedin.com/in/khushi-dhiman-24b3a72b5
