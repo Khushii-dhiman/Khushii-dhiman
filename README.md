@@ -1,21 +1,49 @@
-👋 Hi, I'm Khushi Dhiman
+# ✨ Hi, I'm Khushi Dhiman  
 
-🎓 MCA Student | 💻 Aspiring Developer
+🎓 MCA Student | 💻 Aspiring Software Developer  
 
-I’m passionate about coding, learning new technologies, and building real-world projects. Currently focused on improving my problem-solving and development skills.
+I’m passionate about coding, learning new technologies, and building practical projects.  
+Currently focused on improving my problem-solving skills and growing as a developer.  
 
-🚀 Skills
+---
 
-Languages: Java, Python, C++, SQL
-Web: HTML, CSS, JavaScript
-Tools: Git, GitHub, VS Code
+## 💻 What I Do  
 
-🌱 Currently Learning
-Data Structures & Algorithms
-Backend Development
-📫 Connect
-Email: your-email
-LinkedIn: your-link
-🎯 Goal
+- Work with **Java & Python**  
+- Explore **Web Development (HTML, CSS, JavaScript)**  
+- Practice **Data Structures & Algorithms**  
 
-To become a skilled developer and get placed in a top tech company
+---
+
+## 🌱 Currently Learning  
+
+- Data Structures & Algorithms  
+- Backend Development  
+
+---
+
+## 🛠 Skills  
+
+**Languages:**  
+Java • Python • C++ • SQL  
+
+**Web:**  
+HTML • CSS • JavaScript  
+
+**Tools:**  
+Git • GitHub • VS Code  
+
+---
+
+## 📫 Connect With Me  
+
+- 📧 Email: khushidhiman578@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/khushi-dhiman-24b3a72b5
+
+---
+
+## 🎯 Goal  
+
+To become a skilled developer and get placed in a top tech company  
+
+---
