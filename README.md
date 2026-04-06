@@ -25,7 +25,7 @@ Currently focused on improving my problem-solving skills and growing as a develo
 ## 🛠 Skills  
 
 **Languages:**  
-Java • Python • C++ • SQL  
+Java • Python • C++ • C • SQL 
 
 **Web:**  
 HTML • CSS • JavaScript  
